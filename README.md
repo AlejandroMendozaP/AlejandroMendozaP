@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Mi Foto de Perfil](https://c4.wallpaperflare.com/wallpaper/821/769/300/spirited-away-studio-ghibli-anime-wallpaper-preview.jpg)
 <!--
 **AlejandroMendozaP/AlejandroMendozaP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 ## Acerca de mí
 
-- **Ubicación:** Ciudad de México, México
-- **Correo Electrónico:** tu@email.com
-- **GitHub:** [Mi perfil en GitHub](https://github.com/tuusuario)
+- **Ubicación:** Celaya, Guanajuato
+- **Correo Electrónico:** alemenpa2002@gmail.com
+- **GitHub:** [Mi perfil en GitHub](https://github.com/AlejandroMendozaP)
 
 ## Objetivos
 
@@ -34,17 +34,16 @@ Estoy apasionado por la tecnología y la programación, y mi objetivo es continu
 
 ## Proyectos Destacados
 
-- Proyecto 1: [Nombre del Proyecto 1](enlace_al_proyecto_1)
-- Proyecto 2: [Nombre del Proyecto 2](enlace_al_proyecto_2)
-- Proyecto 3: [Nombre del Proyecto 3](enlace_al_proyecto_3)
+- Proyecto 1: IASimov (enlace_al_proyecto_1)
+
 
 ## Conéctate conmigo
 
 ¡Hablemos! Puedes encontrarme en las siguientes redes sociales:
 
-- [LinkedIn](https://www.linkedin.com/in/tuperfil)
-- [Twitter](https://twitter.com/tuperfil)
-- [Correo Electrónico](mailto:tu@email.com)
+- [LinkedIn](www.linkedin.com/in/alejandro-mendoza-paramo)
+- [Instagram](https://instagram.com/alexmendoza.jpg?igshid=OGQ5ZDc2ODk2ZA==)
+- [Correo Electrónico](mailto:alemenpa2002@gmail.com)
 
 ¡Gracias por visitar mi página de GitHub!
 
